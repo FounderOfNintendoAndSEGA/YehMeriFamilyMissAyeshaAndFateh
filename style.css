@@ -1,0 +1,21 @@
+body {
+    text-align:center;
+    margin:0;
+    padding-top:800px;
+}
+.profile{
+    width:175px;
+    margin-bottom:50px;
+    border-radius:50%;
+    border-style:solid;
+}
+#welcome{position: absolute;
+overflow:hidden;
+height:800px;
+color:aqua;
+left:0;
+right:0;
+bottom:0;
+top:0;
+background-image: linear-gradient(135deg, #0d2e19 10%, #0E5CAD 100%);
+}
